@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/josipfrljicinfo/static/css/main.d7425d3f.chunk.css",
+    "main.js": "/josipfrljicinfo/static/js/main.b3c8ea95.chunk.js",
+    "main.js.map": "/josipfrljicinfo/static/js/main.b3c8ea95.chunk.js.map",
+    "runtime-main.js": "/josipfrljicinfo/static/js/runtime-main.f48ae814.js",
+    "runtime-main.js.map": "/josipfrljicinfo/static/js/runtime-main.f48ae814.js.map",
+    "static/js/2.72fff715.chunk.js": "/josipfrljicinfo/static/js/2.72fff715.chunk.js",
+    "static/js/2.72fff715.chunk.js.map": "/josipfrljicinfo/static/js/2.72fff715.chunk.js.map",
+    "static/js/3.b66748b6.chunk.js": "/josipfrljicinfo/static/js/3.b66748b6.chunk.js",
+    "static/js/3.b66748b6.chunk.js.map": "/josipfrljicinfo/static/js/3.b66748b6.chunk.js.map",
+    "static/js/4.f4fea6eb.chunk.js": "/josipfrljicinfo/static/js/4.f4fea6eb.chunk.js",
+    "static/js/4.f4fea6eb.chunk.js.map": "/josipfrljicinfo/static/js/4.f4fea6eb.chunk.js.map",
+    "static/js/5.133368b0.chunk.js": "/josipfrljicinfo/static/js/5.133368b0.chunk.js",
+    "static/js/5.133368b0.chunk.js.map": "/josipfrljicinfo/static/js/5.133368b0.chunk.js.map",
+    "index.html": "/josipfrljicinfo/index.html",
+    "precache-manifest.91670a3dc2848315531f02ea19ded894.js": "/josipfrljicinfo/precache-manifest.91670a3dc2848315531f02ea19ded894.js",
+    "service-worker.js": "/josipfrljicinfo/service-worker.js",
+    "static/css/main.d7425d3f.chunk.css.map": "/josipfrljicinfo/static/css/main.d7425d3f.chunk.css.map",
+    "static/js/2.72fff715.chunk.js.LICENSE.txt": "/josipfrljicinfo/static/js/2.72fff715.chunk.js.LICENSE.txt",
+    "static/media/carshop1od2.png": "/josipfrljicinfo/static/media/carshop1od2.22cf12f7.png",
+    "static/media/carshop2od2.png": "/josipfrljicinfo/static/media/carshop2od2.d7712a9c.png",
+    "static/media/job.jpg": "/josipfrljicinfo/static/media/job.d5692a6d.jpg",
+    "static/media/josip.png": "/josipfrljicinfo/static/media/josip.28ae75d0.png",
+    "static/media/milijunas1od2.png": "/josipfrljicinfo/static/media/milijunas1od2.d79d184b.png",
+    "static/media/milijunas2od2.png": "/josipfrljicinfo/static/media/milijunas2od2.2c31665e.png",
+    "static/media/person-in-front-of-laptop-on-brown-wooden-table-2115217 (1).jpg": "/josipfrljicinfo/static/media/person-in-front-of-laptop-on-brown-wooden-table-2115217 (1).fd69b947.jpg",
+    "static/media/photo-of-person-playing-acoustic-guitar-1751731.jpg": "/josipfrljicinfo/static/media/photo-of-person-playing-acoustic-guitar-1751731.abca5402.jpg",
+    "static/media/screen1od2.png": "/josipfrljicinfo/static/media/screen1od2.a803b7b9.png",
+    "static/media/screen2.png": "/josipfrljicinfo/static/media/screen2.f319b7ea.png",
+    "static/media/theatre.jpg": "/josipfrljicinfo/static/media/theatre.dd0711b5.jpg",
+    "static/media/woman-wearing-white-karati-g-under-blue-sky-3023756.jpg": "/josipfrljicinfo/static/media/woman-wearing-white-karati-g-under-blue-sky-3023756.e9c08dfc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f48ae814.js",
+    "static/js/2.72fff715.chunk.js",
+    "static/css/main.d7425d3f.chunk.css",
+    "static/js/main.b3c8ea95.chunk.js"
+  ]
+}
