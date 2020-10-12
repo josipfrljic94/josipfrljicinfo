@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f05dc6712c479f3305dc78ca8f35d8c4",
+    "revision": "1e9002ef4b8ef836d343634bcd734365",
     "url": "/josipfrljicinfo/index.html"
   },
   {
-    "revision": "418b2bf0c37575673a16",
+    "revision": "48c4907c4f279bd62d42",
     "url": "/josipfrljicinfo/static/css/main.d7425d3f.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/josipfrljicinfo/static/js/5.133368b0.chunk.js"
   },
   {
-    "revision": "418b2bf0c37575673a16",
-    "url": "/josipfrljicinfo/static/js/main.b3c8ea95.chunk.js"
+    "revision": "48c4907c4f279bd62d42",
+    "url": "/josipfrljicinfo/static/js/main.82cd6fd6.chunk.js"
   },
   {
     "revision": "1faf90247bc0c618269f",
