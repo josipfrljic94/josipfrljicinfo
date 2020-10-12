@@ -107,7 +107,7 @@ useEffect(() => {
       </div>
       <div className='middle'>
         <div ref={el=>midBanner=el} className='middle-banner'>
-        <h1>I 'am Josip Frljić</h1>
+        <h1>I'm Josip Frljić</h1>
         <h3> front-end developer</h3>
         </div>
       
