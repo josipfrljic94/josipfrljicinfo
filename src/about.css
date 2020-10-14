@@ -1,0 +1,152 @@
+.about{
+    width: 100%;
+    min-height: 150vh;
+    background:  #446d44;
+    
+}
+.about-container{
+    height: 100%;
+    width: 100%;
+    display: grid;
+justify-items: center;
+
+    
+}
+.aboutme-section{
+    display: flex;
+    height: 85vh;
+    width: 100%;  
+    align-items: center;
+  
+    justify-content: center;
+}
+.aboutme-section div{
+width: 70%;
+height: 80%;
+/* display: flex;
+justify-content: center;
+justify-content: space-around; */
+display: grid;
+grid-template-columns: 40% 20% 10% 30%;
+
+}
+.aboutme-section div img{
+   width: 100%;
+   height: 100%;
+   filter: drop-shadow(8px 12px 4px #2e2e2eab);
+  grid-column: 3/-1;
+  grid-row: 1/-1;
+}
+
+.aboutme-section div span{
+    grid-column: 1/4;
+  grid-row: 1/-1;
+    width: 100%;
+    height: 100%;
+   border-radius: 0 0 20% 20%;
+    font-size: 2.0rem;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    color: #0d485c;
+   background: #add8e6;
+   text-align: center;
+}
+
+.myskills{
+   height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background: url("images/aboutmebg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: top center;
+    position: relative;
+}
+.myskills::after{
+    content: "";
+    position: absolute;
+    background: #95edf0b0;
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: bottom center;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.myskills-container{
+    margin-left:15%;
+    width: 70%;
+    height: 90%;
+    display: flex;
+   flex-direction: column;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 3;
+    gap: 3px;
+}
+.myskills-container h1{
+    color: #0d485c;
+    font-size: 3rem;
+    padding-bottom: 3%;
+    -webkit-text-stroke-color: #000;
+    -webkit-text-stroke-width: 1px;
+}
+.myskills-container div{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+   border-radius: 3px;
+    display: flex;
+    justify-content: space-between;
+}
+.myskills-container div span{
+    color: #0d485c;
+}
+.myskills-container div:nth-child(odd){
+ flex-flow: row-reverse;
+ 
+}
+
+.myskills-container div h5{
+  
+    color: #add8e6;
+}
+
+.myskill-d  div:nth-child(1){
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6rem;
+    -webkit-text-stroke-color: black;
+   -webkit-text-stroke-width: 1px;
+   border: 3px solid #0d485c;
+   background: #446944c7;
+}
+
+
+
+.myskill-f div:nth-child(1){
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6rem;
+    border: 3px solid #0d485c;
+    background:#fafafa94;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+.myskill-b div:nth-child(1){
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #0d485c;
+    font-size: 1.6rem;
+    background: #ff6347c5;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
